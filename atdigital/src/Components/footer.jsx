@@ -5,7 +5,9 @@ const Footer = () => {
   return (
     <footer className="bg-[#4B3EFF] text-white px-16 py-16">
       <div className="container mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 text-center md:text-left">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-90 text-center md:text-left">
+      
+      
           {/* Logo and Description Section */}
           <div className="max-w-md">
             <div className="flex items-center justify-center md:justify-start mb-6">
