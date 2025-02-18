@@ -14,7 +14,7 @@ const HeroSection = () => {
       }}
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
-      <div className="container mx-auto flex flex-col md:flex-row items-center px-8 py-16 relative z-10">
+      <div className="container mx-auto flex flex-col md:flex-row items-center px-8 py-100 relative z-10">
         {/* Left Text Section */}
         <div className="md:w-1/2 text-white bg-[#17A2B8] p-8 rounded-lg shadow-lg">
           <h1 className="text-3xl md:text-4xl font-bold mb-4">
